@@ -1,0 +1,11 @@
+Package: spLag
+Type: Package
+Title: spLag: generate spatio-temporal lags
+Version: 1.0
+Date: 2018-07-05
+Author: Katrin Paula
+Maintainer: Katrin Paula <Katrin.Paula@uni-mannheim.de>
+Description: The spLag package generates spatio-temporal lags based on different spatial weights matrices. The package allows to define different operationalisations of a spatial weights matrix (e.g. decay functions, inverting, row-standardization, bounded matrices) from a  simple distance matrix and to create spatio-temporal lags for longitudinal datasets.
+License: MIT + file LICENSE
+
+
